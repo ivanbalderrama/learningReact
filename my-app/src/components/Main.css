@@ -1,0 +1,25 @@
+main{
+    margin: 50px;
+    height: 400px;
+}
+main > h1 {
+    color: white;
+}
+main > ul{
+    margin: 50px 0px;
+}
+main > ul > li {
+    margin: 20px 10px;
+    font-weight: 400;
+    color: white;
+}
+
+.App{
+    background-color: #282C35;
+    height: 100vw;
+}
+
+ul > li::marker {
+    font-size: 1.4rem;
+    color: #61dafb;
+}
