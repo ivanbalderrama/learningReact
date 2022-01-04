@@ -1,0 +1,62 @@
+.infoContainer{
+    height: 1100px;
+    width: 400px;
+    background-color: #21222A;
+    margin: 0px auto;
+    
+}
+.nameInfo{
+    margin: 60px;
+}
+.nameInfo > h2, h3, p {
+    color: white;
+}
+.nameInfo > h2 {
+    text-align: center;
+}
+.nameInfo > h5 {
+    color: rgb(247, 188, 80);
+    text-align: center;
+}
+.nameInfo > a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+}
+.myWebsite:hover{
+    color: rgb(247, 188, 80);
+    font-weight: bold;
+}
+.nameInfo > button {
+    border: none;
+    border-radius: 10px;
+    margin: 20px 10px;
+    padding: 10px 30px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(209, 209, 209);
+}
+.nameInfo > button:hover {
+    border: 1px solid black;
+}
+
+#linkButton {
+    background-color: rgb(48, 134, 231);
+    color: white;
+}
+#linkButton:hover {
+    border: 1px solid white;
+}
+.egyptImg {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    
+}
+p {
+    font-size: .8rem;
+}
+
