@@ -7,7 +7,7 @@ import "./style.css";
 const root = document.getElementById('root');
 
 ReactDOM.render(
-    <App />,
+    <App/>,
     root
 );
 

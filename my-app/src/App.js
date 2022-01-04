@@ -1,12 +1,14 @@
+import React from 'react';
 import Navbar from './components/Navbar.js';
-import React, { Component } from 'react';
 import Main from './components/Main.js';
+import Me from './components/Me.js';
 
 function App() {
   return (
     <div className="App">
-    <Navbar/>
-    <Main/>
+      <Navbar/>
+      <Main/>
+      <Me/>
     </div>
   );
 }

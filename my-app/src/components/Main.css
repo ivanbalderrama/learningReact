@@ -16,7 +16,7 @@ main > ul > li {
 
 .App{
     background-color: #282C35;
-    height: 100vw;
+    height: 100vh;
 }
 
 ul > li::marker {
